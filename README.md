@@ -1,8 +1,12 @@
-# Betsabe Moreno
+# Hi there, I'm Betsabe Moreno! 👋
 
-## 👩‍💻 Full Stack Developer 
+I'm a results-driven Full Stack Web Developer with a passion for crafting exceptional digital experiences. With 3 years of industry experience, I specialize in leading end-to-end projects and implementing cutting-edge technologies like WebSocket for real-time communication.
 
-Passionate about crafting exceptional digital experiences and advocating for open developer communities.
+## 🚀 Achievements:
+- Led entire projects to successful outcomes.
+- Implemented WebSocket technology for enhanced real-time communication.
+- Developed npm libraries for process automation across disconnected pages.
+- Skilled in achieving pixel-perfect designs for user interfaces.
 
 🚀 **Experience:** Leading end-to-end projects, implementing WebSocket technology, and developing npm libraries for process automation.
 
