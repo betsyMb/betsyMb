@@ -1,19 +1,45 @@
-# Hi there, I'm Betsabe Moreno! 👋
+<h1 align="center">Hi there, I'm Betsabe Moreno! 👋</h1>
 
-I'm a results-driven Full Stack Web Developer with a passion for crafting exceptional digital experiences. With 3 years of industry experience, I specialize in leading end-to-end projects and implementing cutting-edge technologies like WebSocket for real-time communication.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;5%2B+years+of+experience;Greenfield+projects+expert;Real-time+systems+enthusiast" alt="Typing SVG" />
+</p>
 
-## 🚀 Achievements:
-- Led entire projects to successful outcomes.
-- Implemented WebSocket technology for enhanced real-time communication.
-- Developed npm libraries for process automation across disconnected pages.
-- Skilled in achieving pixel-perfect designs for user interfaces.
+---
 
-🚀 **Experience:** Leading end-to-end projects, implementing WebSocket technology, and developing npm libraries for process automation.
+## 💫 About Me
 
-📚 **Tech Stack:** React, Redux, Next.js, Vue, Angular, Express, NestJs, MongoDB, PostgreSQL, AWS, Strapi, GraphQL.
+Results-driven **Full Stack Web Developer** with 5 years of experience crafting scalable, high-performance web applications. I specialize in leading **greenfield projects** from concept to production, with deep expertise in real-time communication systems, frontend architecture, and developer tooling.
 
-🎓 **Education:** Computer Engineering student at University Institute of Agroindustrial Technology (IUTAI).
+- 🔭 Currently working on **AI-powered fraud detection dashboards** at Pyrite-RE
+- 🌱 Building **agricultural management platforms** for farmers & agronomists at Grant Scientific
+- 💡 Previously built **Runnify** — a sports analytics platform from scratch
+- 🎯 2026 goal: Contribute more to open source and share knowledge
+- ⚡ Fun fact: I turn Figma designs into pixel-perfect magic ✨
 
-📫 **Contact:** [Email](mailto:morenoelba2002@gmail.com) | [LinkedIn](https://www.linkedin.com/in/betsabe-moreno-719399218/)
+---
 
-Let's build something amazing together! 💻🚀
+## 🚀 Key Achievements
+
+```mermaid
+mindmap
+  (🏆 Achievements)
+    Sports Analytics
+      Built platform from 0 to production
+      Real-time biometric dashboards
+      Coach & athlete interfaces
+    Real-time Systems
+      WebSocket live monitoring
+      Synchronized training sessions
+      Performance tracking
+    Developer Tooling
+      Published npm packages
+      Automated form processes
+      Reduced dev time across projects
+    UI Engineering
+      Pixel-perfect implementation
+      Cross-browser consistency
+      Figma to production
+    Database Design
+      Prisma & PostgreSQL
+      Scalable schemas
+      Agtech & fintech platforms
